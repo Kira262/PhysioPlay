@@ -19,3 +19,16 @@ An interactive exercise game using **OpenCV** and **MediaPipe** to detect body m
 ```bash
 git clone https://github.com/your-username/PhysioPlay-Game.git
 cd PhysioPlay
+
+### **2️⃣ Install dependencies**
+```bash
+pip install -r requirements.txt
+
+### **3️⃣ Run the game**
+```bash
+python physioplay.py
+
+📦 Dependencies
+OpenCV
+MediaPipe
+NumPy
