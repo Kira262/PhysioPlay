@@ -46,7 +46,7 @@ An interactive exercise game using **OpenCV** and **MediaPipe** to detect body m
 
 ```bash
 
-git  clone  https://github.com/your-username/PhysioPlay-Game.git
+git  clone  https://github.com/your-username/PhysioPlay.git
 
 cd  PhysioPlay
 
